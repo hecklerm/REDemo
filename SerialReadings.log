@@ -1,0 +1,117 @@
+Ports detected:
+/dev/tty.usbmodem14141
+Loaded nodeId from properties: '0'
+Connecting to serial port /dev/cu.usbmodem14141
+Creating SerialThread for port /dev/cu.usbmodem14141
+Port '/dev/cu.usbmodem14141' open.
+Initializing...
+Sensors initialized and online!
+{3400,2800,12250,222,34}
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+{3400,2800,12250,222,34}
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+{3400,2800,12250,222,34}
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+{3400,2800,12250,222,34}
+Trying to reconnect to Control WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/control
+Closing serial port
+Disconnecting observers
+Stopping websockets
+Closing serial port
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/control: Handshake error.
+Trying to reconnect to Data WebSocket...
+Connecting to wss://mcp.cfapps.pez.pivotal.io:443/data
+Error connecting, wss://mcp.cfapps.pez.pivotal.io:443/data: Handshake error.
+--> {3400,2800,12250,222,34}
+Disconnecting: serial port closed.
+Disconnecting, closing log. Goodbye for now!
