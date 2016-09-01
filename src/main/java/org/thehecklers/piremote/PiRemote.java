@@ -246,7 +246,7 @@ public class PiRemote extends Observable {
                             newBean.setVolts(Double.parseDouble(values[x]) / 1000);
                             break;
                         case Reading.CURRENT:
-                            newBean.setCurrent(Double.parseDouble(values[x]));
+                            newBean.setCurrent(Double.parseDouble(values[x]) / 1000);
                             break;
                         case Reading.STATUS:
                             newBean.setStatus(Integer.parseInt(values[x]));
